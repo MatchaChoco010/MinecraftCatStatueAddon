@@ -1,0 +1,45 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "identifier": "matchachoco010_cs:cat_statue_feature_rules",
+      "places_feature": "matchachoco010_cs:cat_statue_feature"
+    },
+    "conditions": {
+      "placement_pass": "surface_pass",
+      "minecraft:biome_filter": [
+        {
+          "any_of": [
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "overworld"
+            },
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "overworld_generation"
+            }
+          ]
+        }
+      ]
+    },
+    "distribution": {
+      "iterations": 1,
+      "coordinate_eval_order": "zxy",
+      "x": {
+        "distribution": "uniform",
+        "extent": [0, 64]
+      },
+      "y": "query.heightmap(variable.worldx, variable.worldz)",
+      "z": {
+        "distribution": "uniform",
+        "extent": [0, 64]
+      },
+      "scatter_chance": {
+        "numerator": 4,
+        "denominator": 100
+      }
+    }
+  }
+}

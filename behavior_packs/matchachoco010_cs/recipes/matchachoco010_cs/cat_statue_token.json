@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "matchachoco010_cs:cat_statue_token_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["#"],
+    "key": {
+      "#": {
+        "item": "matchachoco010_cs:compressed_cat_statue_token"
+      }
+    },
+    "result": {
+      "item": "matchachoco010_cs:cat_statue_token",
+      "count": 9
+    }
+  }
+}

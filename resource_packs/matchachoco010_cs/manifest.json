@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Minecraft Addon - Cat Statue",
+    "description": "Minecraft Addon - Cat Statue Resource Pack\nv1.0.0",
+    "uuid": "f32884ed-f680-4d5d-afea-ac69a28ca713",
+    "pack_scope": "world",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 62]
+  },
+  "modules": [
+    {
+      "description": "Minecraft Addon - Cat Statue Resource Pack",
+      "type": "resources",
+      "uuid": "d8c2e6b0-7c2e-413c-b5f6-f2b4bb43b234",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1bd8609d-38c0-4d3a-ab0e-40da29354242",
+      "version": [1, 0, 0]
+    }
+  ]
+}

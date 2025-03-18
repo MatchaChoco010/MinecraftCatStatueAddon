@@ -1,0 +1,5 @@
+tile.matchachoco010_cs:cat_statue_stone_head.name=猫の石像の頭
+tile.matchachoco010_cs:cat_statue_stone_body.name=猫の石像の胴体
+item.matchachoco010_cs:cat_statue_token=猫の石像のトークン
+item.matchachoco010_cs:compressed_cat_statue_token=圧縮された猫の石像のトークン
+item.matchachoco010_cs:cat_statue_chisel=猫の石像の彫刻刀

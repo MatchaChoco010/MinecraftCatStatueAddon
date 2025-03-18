@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "matchachoco010_cs:cat_statue_chisel_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["t_", "_f"],
+    "key": {
+      "t": {
+        "item": "matchachoco010_cs:cat_statue_token"
+      },
+      "f": {
+        "item": "minecraft:flint"
+      }
+    },
+    "result": {
+      "item": "matchachoco010_cs:cat_statue_chisel",
+      "count": 1
+    }
+  }
+}

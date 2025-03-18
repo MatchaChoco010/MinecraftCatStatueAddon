@@ -1,0 +1,7 @@
+{
+  "format_version": "1.21.30",
+  "minecraft:texture_set": {
+    "color": "cat_statue_stone_body_torch_c",
+    "metalness_emissive_roughness": "cat_statue_stone_body_torch_e"
+  }
+}

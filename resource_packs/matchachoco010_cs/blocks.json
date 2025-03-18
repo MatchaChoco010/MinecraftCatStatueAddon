@@ -1,0 +1,9 @@
+{
+  "format_version": "1.21.0",
+  "cat_statue_stone_body": {
+    "sound": "stone"
+  },
+  "cat_statue_stone_head": {
+    "sound": "stone"
+  }
+}

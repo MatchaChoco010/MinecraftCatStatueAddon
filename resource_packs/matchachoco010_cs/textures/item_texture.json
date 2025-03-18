@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "matchachoco010_cs",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cat_statue_token": {
+      "textures": "textures/matchachoco010_cs/cat_statue_token"
+    },
+    "compressed_cat_statue_token": {
+      "textures": "textures/matchachoco010_cs/compressed_cat_statue_token"
+    },
+    "cat_statue_chisel": {
+      "textures": "textures/matchachoco010_cs/cat_statue_chisel"
+    }
+  }
+}
